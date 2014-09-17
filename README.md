@@ -1,3 +1,8 @@
+Task for appling to node js course.
+
+
+
+
 ##That node task
 
 "That node task" is a node.js application in the middle of development. It consists of a basic CRUD REST Api that persists data in a database. Users are allowed to make the following requests:
